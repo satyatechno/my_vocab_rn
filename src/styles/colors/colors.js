@@ -1,0 +1,16 @@
+export default {
+  defaultBlack: '#000',
+  defaultWhite: '#ffffff',
+  appGray: '#909090',
+  appGray1: '#EFEFEF',
+  appGreen: '#3F686C',
+  themeColor: '#651D32',
+  appRed: '#E82939',
+  appGray2: '#CECECE',
+  appVoilet: '#8C51F6',
+  appYellow: '#F6B451',
+  appOrange: '#E77056',
+  lightRed: '#E5CAC9',
+  lightGreen: '#00B227',
+  error: '#f39c12',
+};
